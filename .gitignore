@@ -24,6 +24,7 @@ Thumbs.db
 videos/
 
 # PDF and output files
+pdfs/
 *.pdf
 *.out
 *.log
